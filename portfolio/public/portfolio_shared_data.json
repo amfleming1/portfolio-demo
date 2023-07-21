@@ -5,7 +5,7 @@
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/amfleming1",
           "class": "fab fa-github"
         },
         {
@@ -14,7 +14,7 @@
           "class": "fab fa-instagram"
         }
       ],
-      "image": "myProfile.jpg"
+      "image": "profilepic.png"
     },
     "skills": {
       "icons": [
